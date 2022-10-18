@@ -1,3 +1,5 @@
+
+# Example of the custom front end.
 import streamlit as st
 from streamlit_custom_slider import st_custom_slider
 from streamlit_custom_slider import st_range_slider
